@@ -27,7 +27,7 @@ Reference this package in your `package.json`:
 Or, use any of the [supported extensions](https://prettier.io/docs/en/configuration.html) (e.g. `.prettierrc.json`) to export a string:
 
 ```
-"@matthamil/prettier-config"
+"@pokayoke/prettier-config"
 ```
 
 ## Overriding or Extending Config
