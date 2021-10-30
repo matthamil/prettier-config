@@ -1,7 +1,5 @@
 <div align="center">
-<h1>@matthamil/prettier-config 🎨</h1>
-
-<p>My personal <a href="https://prettier.io">Prettier</a> config.</p>
+<h1>@pokayoke/prettier-config 🎨</h1>
 </div>
 
 ---
@@ -11,7 +9,7 @@
 Add this package to your project's `devDependencies`:
 
 ```
-yarn add -D @matthamil/prettier-config
+yarn add -D @pokayoke/prettier-config
 ```
 
 ## Usage
@@ -22,7 +20,7 @@ Reference this package in your `package.json`:
 
 ```json
 {
-  "prettier": "@matthamil/prettier-config"
+  "prettier": "@pokayoke/prettier-config"
 }
 ```
 
@@ -38,7 +36,7 @@ Import this package in a `.prettierrc.js` file and add your own config options:
 
 ```js
 module.exports = {
-  ...require("@matthamil/prettier-config"),
+  ...require("@pokayoke/prettier-config"),
   semi: false,
 };
 ```

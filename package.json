@@ -1,6 +1,6 @@
 {
-  "name": "@matthamil/prettier-config",
+  "name": "@pokayoke/prettier-config",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
 }
