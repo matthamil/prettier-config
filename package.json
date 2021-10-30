@@ -2,5 +2,9 @@
   "name": "@pokayoke/prettier-config",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Matt Hamil <mhamildev@gmail.com>",
+  "files": [
+    "index.js"
+  ],
   "license": "MIT"
 }
