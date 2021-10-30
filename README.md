@@ -4,6 +4,11 @@
 
 ---
 
+<!-- prettier-ignore-start -->
+[![version][version-badge]][package]
+[![MIT License][license-badge]][license]
+<!-- prettier-ignore-end -->
+
 ## Installation
 
 Add this package to your project's `devDependencies`:
@@ -41,7 +46,11 @@ module.exports = {
 };
 ```
 
-
+<!-- variables -->
+[version-badge]: https://img.shields.io/npm/v/@pokayoke/prettier-config?style=flat-square
+[package]: https://www.npmjs.com/package/@pokayoke/prettier-config
+[license-badge]: https://img.shields.io/github/license/matthamil/prettier-config?style=flat-square
+[license]: https://github.com/matthamil/prettier-config/LICENSE
 
 
 
